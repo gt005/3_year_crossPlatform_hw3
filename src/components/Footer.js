@@ -1,4 +1,4 @@
-function Footer() {
+const Footer = () => {
   return (
     <footer className="grid-container">
       <div className="footer__copyright-container">

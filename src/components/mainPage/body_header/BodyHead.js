@@ -4,7 +4,7 @@ import Contacts from '../Contacts';
 import { modalStyle } from './style.js';
 
 
-function BodyHead() {
+const BodyHead = () => {
   const [open, setOpen] = useState(false);
 
   const handleOpen = () => {

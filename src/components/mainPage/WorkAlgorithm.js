@@ -1,4 +1,4 @@
-function WorkAlgorithm() {
+const WorkAlgorithm = () => {
   return (
     <div className="work-algorythm grid-container">
       <div className="work-algorythm__header grid-container">

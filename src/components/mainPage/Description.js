@@ -1,4 +1,4 @@
-function Description() {
+const Description = () => {
   return (
     <div className="description grid-container">
       <div className="description__left-container">

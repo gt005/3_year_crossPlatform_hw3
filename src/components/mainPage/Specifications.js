@@ -1,4 +1,4 @@
-function Specifications() {
+const Specifications = () => {
   return (
     <div className="specifications grid-container">
       <h2 className="specifications__main-text">Более 5 лет создаем мебель для вашего комфорта</h2>

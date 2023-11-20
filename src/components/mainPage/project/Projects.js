@@ -1,6 +1,6 @@
 import ProjectElement from './ProjectElement';
 
-function ProjectsList() {
+const ProjectsList = () => {
   const projects = [
     { src: "img/project-img.png", alt: "Гостиная с телевизором", description: "Современная гостиная" },
     { src: "img/project-1.png", alt: "Кухня с деревянной мебелью", description: "Уютная кухня" },

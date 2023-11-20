@@ -1,0 +1,7 @@
+version: '3.8'
+
+services:
+  flask-backend:
+    build: tmp_server/
+    ports:
+      - "8000:8000"

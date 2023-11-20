@@ -1,4 +1,4 @@
-function Contacts() {
+const Contacts = () => {
   return (
     <div className="contacts grid-container">
       <img src="img/bilal-mansuri-yJ78NE83YH8-unsplash 1.png" alt="bedroom dark" className="contacts__main-img" />

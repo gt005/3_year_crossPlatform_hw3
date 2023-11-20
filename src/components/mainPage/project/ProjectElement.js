@@ -1,4 +1,4 @@
-function ProjectElement({ imageSrc, altText, description }) {
+const ProjectElement = ({ imageSrc, altText, description }) => {
 
     return (
         <div className="projects__examples-container__element">
